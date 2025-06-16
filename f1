@@ -6,3 +6,5 @@ check in venu name in repositiry
 cd venu
 git clone url
 hi this is new update
+yum install httpd
+
